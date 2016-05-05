@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#516e77</color>
+    <color name="colorPrimaryDark">#374c52</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorMainBG">#718e94</color>
+    <color name="black_overlay">#66000000</color>
+    <color name="black">#000</color>
+    <color name="colorNavDriver">#233034</color>
+    <color name="colorWhite">#f9f4f4</color>
+
+</resources>
