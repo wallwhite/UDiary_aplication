@@ -8,6 +8,8 @@
         <item name="colorPrimary">@color/colorPrimary</item>
         <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
         <item name="colorControlNormal">@color/colorWhite</item>
+        <item name="android:colorForeground">@color/colorWhite</item>
+        <item name="android:textColorPrimary">@color/primary_text_material_light</item>
 
 
     </style>

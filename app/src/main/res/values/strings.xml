@@ -6,4 +6,10 @@
     <string name="dummy_content">DUMMY\nCONTENT</string>
     <string name="title_activity_home">Home</string>
     <string name="reload_title">Обновить</string>
+    <string name="diary">Расписание</string>
+    <string name="teachers">Преподаватели</string>
+    <string name="tasks">Задания</string>
+    <string name="settings">Настройки</string>
+    <string name="open_text">open</string>
+    <string name="close_text">close</string>
 </resources>

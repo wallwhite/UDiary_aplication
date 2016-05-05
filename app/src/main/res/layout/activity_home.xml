@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <android.support.v4.widget.DrawerLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/drawerlayout"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
     android:background="@drawable/backgroudaaa"
     android:fitsSystemWindows="true">
 
@@ -33,6 +35,8 @@
         android:layout_height="match_parent"
         android:layout_gravity="start"
         android:background="@color/colorNavDriver"
+        app:menu="@menu/menu_navigation"
+        app:headerLayout="@layout/navigation_header"
         />
 
 
