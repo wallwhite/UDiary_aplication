@@ -8,5 +8,5 @@
     <color name="black">#000</color>
     <color name="colorNavDriver">#233034</color>
     <color name="colorWhite">#f9f4f4</color>
-
+    <color name="colorFloatingButton">#b97470</color>
 </resources>

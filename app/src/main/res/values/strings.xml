@@ -11,5 +11,8 @@
     <string name="tasks">Задания</string>
     <string name="settings">Настройки</string>
     <string name="open_text">open</string>
-    <string name="close_text">close</string>
+    <string name="close_text">open</string>
+    <string name="tabs_now">Текущие</string>
+    <string name="tabs_end">Выполненные</string>
+
 </resources>
