@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_menu_item_diary"
+        android:orderInCategory="1"
+        android:title="@string/diary"
+        android:icon="@drawable/ic_calendar_text"
+
+        />
+    <item
+        android:id="@+id/navigation_menu_item_teachers"
+        android:orderInCategory="1"
+        android:title="@string/teachers"
+        android:icon="@drawable/ic_account_multiple"
+        />
+    <item
+        android:id="@+id/navigation_menu_item_tasks"
+        android:orderInCategory="1"
+        android:title="@string/tasks"
+        android:icon="@drawable/ic_assistant"
+        />
+    <item
+        android:id="@+id/navigation_menu_item_settings"
+        android:orderInCategory="1"
+        android:title="@string/settings"
+        android:icon="@drawable/ic_settings"
+        />
+</menu>
