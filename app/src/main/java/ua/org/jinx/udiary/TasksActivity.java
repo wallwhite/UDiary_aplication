@@ -39,6 +39,7 @@ public class TasksActivity extends AppCompatActivity {
         TabsFragmentAdapter adapter = new TabsFragmentAdapter(this, getSupportFragmentManager());
         viewPager.setAdapter(adapter);
         tablayout = (TabLayout) findViewById(R.id.tablayout_task);
+
         tablayout.setupWithViewPager(viewPager);
     }
 }

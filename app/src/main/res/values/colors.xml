@@ -9,4 +9,7 @@
     <color name="colorNavDriver">#233034</color>
     <color name="colorWhite">#f9f4f4</color>
     <color name="colorFloatingButton">#b97470</color>
+    <color name="colorDayTextNormal">#6eb6b2</color>
+    <color name="colorDayTextEtention">#da5750</color>
+
 </resources>
