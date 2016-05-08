@@ -10,7 +10,7 @@
     <dimen name="navigation_header_height">178dp</dimen>
 
     <dimen name="card_elevation">4dp</dimen>
-    <dimen name="card_corner_radius">2dp</dimen>
+    <dimen name="card_corner_radius">5dp</dimen>
 
     <dimen name="dialog_layout_padding">24dp</dimen>
 

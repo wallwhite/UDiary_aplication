@@ -11,5 +11,8 @@
     <color name="colorFloatingButton">#b97470</color>
     <color name="colorDayTextNormal">#6eb6b2</color>
     <color name="colorDayTextEtention">#da5750</color>
+    <color name="transporent">#00000000</color>
+    <color name="colorDayHeader">#c7d6de</color>
+
 
 </resources>

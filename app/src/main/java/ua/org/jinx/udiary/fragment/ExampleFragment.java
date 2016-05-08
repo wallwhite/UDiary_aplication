@@ -45,10 +45,19 @@ public class ExampleFragment extends AbstractTabFragment {
 
     private List<UDiaryDTO> createMockUDListData() {
         List<UDiaryDTO> data = new ArrayList<>();
+
+
         data.add(new UDiaryDTO("Задание на вторник","25", "Сделать что то..."));
         data.add(new UDiaryDTO("ЖОПА","01" ,"По постилу ууужас"));
         data.add(new UDiaryDTO("БЖД" ,"12" ,"Цимбалюк очко рвет"));
         data.add(new UDiaryDTO("Диплом","05" ,"Пиздец а не диплом"));
+        data.add(new UDiaryDTO("Диплом","05" ,"Пиздец а не диплом"));
+        data.add(new UDiaryDTO("Диплом","05" ,"Пиздец а не диплом"));
+        data.add(new UDiaryDTO("Диплом","05" ,"Пиздец а не диплом"));
+        data.add(new UDiaryDTO("Диплом","05" ,"Пиздец а не диплом"));
+        data.add(new UDiaryDTO("Диплом","05" ,"Пиздец а не диплом"));
+        data.add(new UDiaryDTO("Диплом","05" ,"Пиздец а не диплом"));
+
         return data;
     }
     public void setContext(Context context) {
